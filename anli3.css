@@ -73,7 +73,7 @@ a:hover{
 	margin:auto;
 }
 .banner:hover{
-	background:url(.Img/banner.jpg) 50% 50% no-repeat;
+	background:url(./Img/banner.jpg) 50% 50% no-repeat;
 }
 .ban{
 
